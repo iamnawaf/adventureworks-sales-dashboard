@@ -6,6 +6,22 @@ An interactive, four-page Power BI dashboard analyzing sales, products, geograph
 
 ---
 
+## Preview
+
+### Overview
+![Overview page](screenshots/overview.png)
+
+### Map
+![Map page](screenshots/map.png)
+
+### Products
+![Products page](screenshots/products.png)
+
+### Customers
+![Customers page](screenshots/customers.png)
+
+---
+
 ## Pages
 
 | Page | What it answers |
